@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/HelixProjects/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHelixProjects%2FShared%20Documents%2Fsites%2Faso%2Dsandbox%2Dsites%2Fsandbox%2Dsites%2Ftokowaka%2Dfrescopa&viewid=124ad5f1%2D60ba%2D476c%2Dade8%2D7c1df274ee95&p=true&ga=1
+  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/aso-sandbox-sites/sandbox-sites/tokowaka-frescopa?csf=1&web=1&e=dF9CWL
 folders:
   /products/: /products/default
   
