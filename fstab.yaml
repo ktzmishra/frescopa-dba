@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/Summit2023ContentDemo/Shared%20Documents/sites/frescopa
+  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/aso-sandbox-sites/sandbox-sites/tokowaka-frescopa
 folders:
   /products/: /products/default
   
